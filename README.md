@@ -7,3 +7,7 @@ Reference links:
 4. Artificial Intelligence Tutorial | AI Tutorial    https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/
 5. Python   https://www.w3schools.com/python/default.asp
 6. Python   https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+
+
+Resources-for-preparation-Of-Placements:-
+https://github.com/riti2409/Resources-for-preparation-Of-Placements?tab=readme-ov-file
