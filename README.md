@@ -1,4 +1,4 @@
-                                       Semester 3 MCA Resources
+                                           Resources
 
 Reference links:
 1. Cloud Computing Tutorial  https://www.geeksforgeeks.org/cloud-computing/cloud-computing-tutorial/
@@ -7,6 +7,8 @@ Reference links:
 4. Artificial Intelligence Tutorial | AI Tutorial    https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/
 5. Python   https://www.w3schools.com/python/default.asp
 6. Python   https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+
+
 
 
 Resources-for-preparation-Of-Placements:-
